@@ -1,3 +1,10 @@
+/*
+  CRElectrons S.A - 2019
+  CRail meter
+  This code is under MIT licence
+  Author: Ing. Luis Leon V
+*/
+
 #define INYECTOR_SIGNAL 2
 #define MINIMUM_MOTOR_CYCLE 15000 /* in us */
 #define PRINTING_INTERVAL 1000000
